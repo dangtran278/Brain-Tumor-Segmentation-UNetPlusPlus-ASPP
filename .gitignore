@@ -132,6 +132,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+brats-env/
 ENV/
 env.bak/
 venv.bak/
@@ -176,3 +177,5 @@ cython_debug/
 # Datasets and models (add manually)
 data/
 checkpoints/
+brats20-dataset/
+brats20-dataset-training-validation.zip
