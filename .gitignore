@@ -175,8 +175,4 @@ cython_debug/
 .pypirc
 
 # Datasets and models (add manually)
-data/
-checkpoints/
-brats20-dataset/
 brats20-dataset-training-validation.zip
-preprocessed/
