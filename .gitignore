@@ -174,5 +174,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Datasets and models (add manually)
+# Datasets and models (use Git LFS)
+data/
+checkpoints/
+brats20-dataset/
 brats20-dataset-training-validation.zip
+preprocessed/
