@@ -14,6 +14,8 @@ The model is trained on the BraTS2020 dataset using a hybrid Dice + Cross-Entrop
 
 ## Installation
 
+Install `Python 3.9-3.11`.
+
 Run the following:
 
 ```bash
