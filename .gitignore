@@ -176,7 +176,6 @@ cython_debug/
 
 # Datasets and models (use Git LFS)
 data/
-checkpoints/
 brats20-dataset/
 brats20-dataset-training-validation.zip
 preprocessed/
